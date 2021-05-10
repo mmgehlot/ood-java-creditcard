@@ -1,0 +1,5 @@
+CardNumber, CardType, Status
+5410000000000000,master,valid
+4120000000000,visa,valid
+341000000000000,amex,valid
+6011000000000000,discover,valid

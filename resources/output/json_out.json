@@ -1,0 +1,22 @@
+[
+  {
+    "cardNumber": "5410000000000000",
+    "cardType": "master",
+    "status": "valid"
+  },
+  {
+    "cardNumber": "4120000000000",
+    "cardType": "visa",
+    "status": "valid"
+  },
+  {
+    "cardNumber": "341000000000000",
+    "cardType": "amex",
+    "status": "valid"
+  },
+  {
+    "cardNumber": "6011000000000000",
+    "cardType": "discover",
+    "status": "valid"
+  }
+]
